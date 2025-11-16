@@ -32,8 +32,8 @@ Unauthorized use may be illegal
 
 ## 👨‍💻 Author
 Minhajul Taivin
-Offensive Security Researcher
-@Red_Team_Bangladesh
+`Offensive Security Researcher
+@Red_Team_Bangladesh`
 
 ## 📜 License
 Educational Use Only - See LICENSE file
